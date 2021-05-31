@@ -1,0 +1,9 @@
+VERSION = '3.1.0'
+CREATE_TIME = '20191009'
+UPDATE_TIME = '20191009'
+COPYRIGHT = 'GLI Technology Limited,.'
+MINIMUM_GOMER_VERSION = (
+    1,
+    34,
+    6
+)

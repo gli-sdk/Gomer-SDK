@@ -1,0 +1,9 @@
+.idea
+*.py[cod]
+**/__pycache__
+build
+dist
+gomer.egg-info
+/gomer/test_sdk.py
+/gomer/logs
+venv
